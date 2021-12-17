@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Asset3d_2.cs" />
+    <Compile Remove="Windows2.cs" />
+    <Compile Remove="Windows_2.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="OpenTK" Version="4.6.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Asset\Etc\" />
+  </ItemGroup>
+
+</Project>

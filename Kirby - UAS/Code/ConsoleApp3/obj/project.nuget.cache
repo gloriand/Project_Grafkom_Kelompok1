@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "FaZ7Qr7M7vC4COCdv0+Bfrryk8zJJsjhGKgCh6B+/CARvULgxXOdKyCRiqiibDaguEfVIaHgLc0+YM8gSf8Jlw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DELL\\Academic Related\\College - Specific\\Grafkom\\Kirby - UAS\\ConsoleApp3\\ConsoleApp3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\opentk\\4.6.4\\opentk.4.6.4.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\opentk.compute\\4.6.4\\opentk.compute.4.6.4.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\opentk.core\\4.6.4\\opentk.core.4.6.4.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\opentk.graphics\\4.6.4\\opentk.graphics.4.6.4.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\opentk.input\\4.6.4\\opentk.input.4.6.4.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\opentk.mathematics\\4.6.4\\opentk.mathematics.4.6.4.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\opentk.openal\\4.6.4\\opentk.openal.4.6.4.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\opentk.redist.glfw\\3.3.0-pre20200830200122\\opentk.redist.glfw.3.3.0-pre20200830200122.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\opentk.windowing.common\\4.6.4\\opentk.windowing.common.4.6.4.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\opentk.windowing.desktop\\4.6.4\\opentk.windowing.desktop.4.6.4.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\opentk.windowing.graphicslibraryframework\\4.6.4\\opentk.windowing.graphicslibraryframework.4.6.4.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
